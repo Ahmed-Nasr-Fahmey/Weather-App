@@ -13,7 +13,7 @@ The Weather App was developed using the following technologies and tools:
 
 - ![Dart Language](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-- ![WeatherAPI.com](https://www.weatherapi.com): An API that provides weather data to integrate into applications.
+- ![WeatherAPI](https://www.weatherapi.com): An API that provides weather data to integrate into applications.
 
 ## State Management with Cubit
 
