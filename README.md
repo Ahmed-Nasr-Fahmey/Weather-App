@@ -5,9 +5,7 @@ The Weather App is a user-friendly mobile application developed using Flutter th
 
 - **Intuitive Interface:** A clean and user-friendly interface designed to provide weather information at a glance.
 
-- **Current Weather:** Get up-to-date information on temperature, humidity, wind speed, and more for your location.
-
-- **Weather Forecast:** Access a detailed weather forecast for the upcoming days to help you plan ahead.
+- **Current Weather:** Get up-to-date information on temperature and more for your location.
 
 ## Technologies Used
 
@@ -30,7 +28,11 @@ The Weather App utilizes the `cubit` package for efficient state management. Cub
 ## Screenshot
 
 <div align="center">
-  <img src="https://path-to-your-screenshot.png" alt="Weather App Screenshot">
+  <img src="https://github.com/ahmednasr1237/Basketball-Points-Counter-App/assets/92389822/10fcfcfc-e462-4009-8892-344d31269b37" alt="Screenshot 1">
+  <img src="https://github.com/ahmednasr1237/Basketball-Points-Counter-App/assets/92389822/e23c1008-829f-49f7-b270-82f0147f4629" alt="Screenshot 2">
+  <img src="https://github.com/ahmednasr1237/Basketball-Points-Counter-App/assets/92389822/8ce4b70a-aeef-4d9f-9e13-166f9a244276" alt="Screenshot 3">
+  <img src="https://github.com/ahmednasr1237/Basketball-Points-Counter-App/assets/92389822/d6b72554-13a7-4d11-9598-e57aeb1731a2" alt="Screenshot 4">
+  <img src="https://github.com/ahmednasr1237/Basketball-Points-Counter-App/assets/92389822/c77922d2-afc2-427f-9f1a-f133e33bcae4" alt="Screenshot 5">
 </div>
 
 ## Getting Started
