@@ -13,7 +13,7 @@ The Weather App was developed using the following technologies and tools:
 
 - ![Dart Language](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-- ![WeatherAPI](https://www.weatherapi.com): An API that provides weather data to integrate into applications.
+- [WeatherAPI.com](https://www.weatherapi.com): An API that provides weather data to integrate into applications.
 
 ## State Management with Cubit
 
@@ -57,6 +57,7 @@ I hope you find this Weather App useful and informative. Your feedback and contr
 
 ## Contact Me
 
-For any questions or suggestions, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-name/) or [Email](mailto:your.email@example.com).
+For any questions or suggestions, feel free to reach out to me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nasr-Fahmey/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.nasr.fahmey@gmail.com)
 
 <h3 align="center">Thank you for exploring the Weather App!</h3>
